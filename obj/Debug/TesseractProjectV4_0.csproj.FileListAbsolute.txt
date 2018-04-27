@@ -1,0 +1,17 @@
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\x64\liblept1742.dll
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\x64\libtesseract3051.dll
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\x86\liblept1742.dll
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\x86\libtesseract3051.dll
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\TesseractProjectV4_0.exe.config
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\TesseractProjectV4_0.exe
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\TesseractProjectV4_0.pdb
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\Tesseract.dll
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\bin\Debug\Tesseract.xml
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\obj\Debug\TesseractProjectV4_0.csprojResolveAssemblyReference.cache
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\obj\Debug\TesseractProjectV4_0.Form1.resources
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\obj\Debug\TesseractProjectV4_0.Properties.Resources.resources
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\obj\Debug\TesseractProjectV4_0.csproj.GenerateResource.cache
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\obj\Debug\TesseractProjectV4_0.csproj.CoreCompileInputs.cache
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\obj\Debug\TesseractProjectV4_0.csproj.CopyComplete
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\obj\Debug\TesseractProjectV4_0.exe
+C:\Users\Ming\Desktop\emgucv\TesseractProject\TesseractProjectV4_0\obj\Debug\TesseractProjectV4_0.pdb
